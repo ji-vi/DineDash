@@ -22,3 +22,5 @@ I have used the following python libraries:
 => fpdf ( for generating pdf of the bill calculated )
 
 => sendgrid ( for sending the bill to customers via email )
+
+=> sqlite3 ( for database )
