@@ -1,0 +1,60 @@
+name,price,category,gst
+veg sandwich,180,Sandwiches,5
+veg toast sandwich,200,Sandwiches,5
+veg grilled sandwich,210,Sandwiches,5
+veg cheese sandiwch,230,Sandwiches,5
+veg cheese toast sandiwch,240,Sandwiches,5
+veg cheese grilled sandwich,250,Sandwiches,5
+cheese and corn sandwich,210,Sandwiches,5
+margerita,280,Pizza,5
+veg pizza,270,Pizza,5
+paneer tikka pizza,300,Pizza,5
+pesto pizza,320,Pizza,5
+cheese and corn pizza,310,Pizza,5
+white sauce pasta,300,Pasta,5
+pink sauce pasta,320,Pasta,5
+aglio olio pasta,350,Pasta,5
+pesto pasta,340,Pasta,5
+paneer chilly,280,Starters,5
+veg manchurian,260,Starters,5
+veg crispy,290,Starters,5
+paneer crispy,310,Starters,5
+cheese pakoda,290,Starters,5
+paneer tikka masala,280,Main Course,5
+paneer butter masala,300,Main Course,5
+chole bhature,220,Main Course,5
+puri bhaaji,200,Main Course,5
+pav bhaaji,200,Main Course,5
+daal tadka,180,Main Course,5
+malai kofta,280,Main Course,5
+extra bhatura,30,Main Course,5
+extra pav,22,Main Course,5
+extra puri,18,Main Course,5
+steamed rice,200,Rice,5
+veg fried rice,220,Rice,5
+veg schezwan fried rice,240,Rice,5
+triple schezwan fried rice,280,Rice,5
+burnt garlic rice,250,Rice,5
+veg hakka noodles,220,Noodles,5
+veg schezwan noodles,240,Noodles,5
+burnt garlic noodles,250,Noodles,5
+thai noodles,270,Noodles,5
+flat noodles,270,Noodles,5
+roti,12,Indian bread,5
+tandoori roti,20,Indian bread,5
+naan,25,Indian bread,5
+butter naan,35,Indian bread,5
+cheese naan,45,Indian bread,5
+soft drinks 250ml,40,Beverages,5
+lemon soda,55,Beverages,5
+virgin mojito,70,Beverages,5
+coffee,50,Beverages,5
+tea,40,Beverages,5
+filter coffe,60,Beverages,5
+gulab jamun 2pc,70,Desserts,5
+shrikhand,90,Desserts,5
+basundi,110,Desserts,5
+rasgulla 2pc,80,Desserts,5
+chocolate pastry,130,Desserts,5
+blueberry cheesecake,160,Desserts,5
+brownie,145,Desserts,5
