@@ -321,7 +321,7 @@ class RestaurantBillingApp:
         message.attachment = attachment
 
         try:
-            sg = SendGridAPIClient("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")
+            sg = SendGridAPIClient("SENDGRID-API-KEY")
             response = sg.send(message)
             if 200 <= response.status_code < 300:
                 messagebox.showinfo("Success", f"Bill sent to {to_email} successfully!")
@@ -340,7 +340,7 @@ class RestaurantBillingApp:
         if not email:
             return  # Exit if user cancels or leaves blank
 
-        sender_email = "demo.restaurant1234@gmail.com"  # replace with your verified email
+        sender_email = " "  # replace with your verified email
         subject = "Your DineDash Bill"
         content = "Thank you for dining with us! Your bill is attached."
 
@@ -368,7 +368,7 @@ class RestaurantBillingApp:
 
         # Send email
         try:
-            sg = SendGridAPIClient("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")  # replace with your API key
+            sg = SendGridAPIClient("SENDGRID-API-KEY")  # replace with your API key
             response = sg.send(message)
             if 200 <= response.status_code < 300:
                 messagebox.showinfo("Success", f"Bill sent to {email} successfully!")
@@ -427,3 +427,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = RestaurantBillingApp(root)
     root.mainloop()
+
